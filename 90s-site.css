@@ -1,0 +1,25 @@
+h1{
+    color: #316ddb;
+    text-align: center;
+}
+body{
+    background-image: url("images/laser background.jpg");
+    background-size: 1000px 1000px;
+    text-align: center;
+}
+
+div {
+    color: yellow;
+    text-align: center;
+}
+img{
+    border: solid 5px red;
+}
+a {
+    color: yellow;
+    font-size: 20px;
+}
+.header{
+    padding: 15px;
+    display: inline-block;
+}
